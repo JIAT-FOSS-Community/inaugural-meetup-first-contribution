@@ -1,10 +1,8 @@
 {
-  "number": 29,
-  "name": "Sasindu Nethsara Karanayaka",
-  "branch": "MATARA",
-  "batch": "CHEETAH",
-  "image": "assets/images/01.jpg",
-  "github": "Nethsara14"
+    "number": 0,
+    "name": "Your Full Name",
+    "branch": "GAMPAHA",
+    "batch": "YOUR BATCH NAME",
+    "image": "assets/images/000.jpg",
+    "github": "your-github-username"
 }
-
-
