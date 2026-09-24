@@ -75,7 +75,7 @@ Replace `YOUR-NUMBER` with your assigned 3-digit number (e.g., `002`, `015`, `04
 ```bash
 git add .
 git status
-c
+git commit -m "feat: add participant YOUR-NUMBER - Your Name"
 ```
 
 > **Why commit?** A commit is a permanent snapshot of your changes. The message describes what you did.
